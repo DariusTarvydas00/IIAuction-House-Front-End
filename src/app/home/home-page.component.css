@@ -1,0 +1,16 @@
+div.IntroText{
+  text-align: center;
+  padding-top: 15px;
+}
+
+.text{
+  float: left;
+}
+
+.image1 {
+  padding-right: 40px;
+  float: left;
+  position: relative;
+  top: 0;
+  left: 0;
+}
